@@ -1,0 +1,28 @@
+name: dylandibona
+favicon: null
+layout_spectrum: 0.40588867547921836
+typography_spectrum: 0.11508704395964742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.03629271709360182
+  lightness: 0.25743263424374163
+  saturation: 0.49146072939038277
+  rhythmicContrast: 0.005889087449759245
+purpose: []
